@@ -1,2 +1,2 @@
-gcc ./x.c -o x
-./x
+gcc ./c/x.c -o ./c/x
+./c/x
